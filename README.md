@@ -1,5 +1,5 @@
 # Pepper & Carrot Game
-Open Game Project by Gamelan,
+Open Game Project
 Will available soon!
 Please be patient.
 :)
