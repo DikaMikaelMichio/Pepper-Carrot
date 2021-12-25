@@ -11,3 +11,8 @@ for experimental development purpose.
 List:
 1. Unstable software.
 2. Multiple license.
+
+Comment:
+if you wonder about license or permission, 
+or report any BUG in the software, 
+please send to via Email (Gmail).
