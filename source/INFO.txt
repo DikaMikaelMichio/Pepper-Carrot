@@ -1,1 +1,13 @@
+Info:
+This game still in development software (alpha) 
+may contain unstable code or any software inside,
+if have any BUG, please send to via Email (Gmail).
 
+Caution:
+Please be advice, may contain other license from code, 
+This software have been develope with other project
+for experimental development purpose.
+
+List:
+1. Unstable software.
+2. Multiple license.
